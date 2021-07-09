@@ -1,6 +1,6 @@
 # Proxy middleware
 
-A local dev-server that proxies requests to skrive's api
+A local dev-server that proxies requests to Scrive's api
 
 ## Installation
 
